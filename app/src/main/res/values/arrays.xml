@@ -1,0 +1,22 @@
+<resources>
+    <string-array name="text_colors">
+        <item>Negro</item>
+        <item>Azul</item>
+        <item>Rojo</item>
+        <item>Verde</item>
+    </string-array>
+
+    <string-array name="background_options">
+        <item>Blanco</item>
+        <item>Negro</item>
+        <item>Gris Claro</item>
+        <item>Papel Antiguo</item>
+    </string-array>
+
+    <string-array name="tab_styles">
+        <item>Clásico</item>
+        <item>Líneas finas</item>
+        <item>Líneas gruesas</item>
+        <item>Notas resaltadas</item>
+    </string-array>
+</resources>
