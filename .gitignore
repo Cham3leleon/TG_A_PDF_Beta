@@ -1,0 +1,29 @@
+# Archivos generados por Android Studio
+.gradle/
+/build/
+/app/build/
+
+# Archivos de IDE
+.idea/
+*.iml
+*.swp
+*.swo
+*.sublime-project
+*.sublime-workspace
+
+# Archivos temporales
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Archivos de logs
+*.log
+*.log.*
+log.txt
+
+# Archivos de Gradle
+.gradle/
+gradle/wrapper/
+
+# Archivos de Android
+local.properties
