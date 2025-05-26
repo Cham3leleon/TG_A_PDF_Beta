@@ -104,7 +104,7 @@ class MainActivity : AppCompatActivity() {
                 }
                 2 -> {
                     parsedContent = data.getStringExtra("editedContent") ?: parsedContent
-                    txtStatus.text = "Contenido actualizado:\n$ParsedContent"
+                    txtStatus.text = "Contenido actualizado:\n$parsedContent" // ✅ Aquí estaba el error, ahora está corregido
                 }
             }
         }
